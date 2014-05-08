@@ -1,0 +1,245 @@
+TmoodPicker
+v7
+r0
+t416111273.069034
+cCheck dependencies
+cProcessInfoPlistFile /Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app/Info.plist moodPicker-Info.plist
+cCompileXIB /Users/Iliana/Documents/LYNDA/moodPicker/MainWindow.xib
+cCompileXIB /Users/Iliana/Documents/LYNDA/moodPicker/moodPickerViewController.xib
+cProcessPCH /var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moodPicker_Prefix-czhgxorouyrbpjheaxkyvulpetkg/moodPicker_Prefix.pch.gch moodPicker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/Objects-normal/i386/main.o /Users/Iliana/Documents/LYNDA/moodPicker/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/Objects-normal/i386/moodPickerAppDelegate.o /Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/Objects-normal/i386/moodPickerViewController.o /Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerAppDelegate.h
+c00000000531D0FB100000000000001E9
+t1394413489
+s489
+i<UIKit/UIKit.h>
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerAppDelegate.m
+c00000000531D0FB10000000000000AB1
+t1394413489
+s2737
+i"moodPickerAppDelegate.h"
+i"moodPickerViewController.h"
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.h
+c00000000531D23260000000000000190
+t1394418470
+s400
+i<UIKit/UIKit.h>
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m
+c00000000531D2326000000000000074B
+t1394418470
+s1867
+i"moodPickerViewController.h"
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/MainWindow.xib
+c00000000531D0FB10000000000004E4D
+t1394413489
+s20045
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app
+t2
+s0
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app.dSYM
+t2
+s0
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app/Info.plist
+t1394418470
+s603
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app/MainWindow.nib
+t1394418471
+s1687
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app/PkgInfo
+t1394418470
+s8
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app/moodPicker
+t2
+s0
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app/moodPickerViewController.nib
+t1394418471
+s1691
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/Objects-normal/i386/main.o
+t1394418472
+s6316
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/Objects-normal/i386/moodPicker.LinkFileList
+c00000000531D232600000000000001AB
+t1394418470
+s427
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/Objects-normal/i386/moodPickerAppDelegate.o
+t2
+s0
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/Objects-normal/i386/moodPickerViewController.o
+t2
+s0
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/main.m
+c00000000531D0FB10000000000000164
+t1394413489
+s356
+i<UIKit/UIKit.h>
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/moodPickerViewController.xib
+c00000000531D0FF600000000000042EF
+t1394413558
+s17135
+
+N/Users/Iliana/Documents/LYNDA/moodPicker/moodPicker_Prefix.pch
+c00000000531D0FB100000000000000BD
+t1394413489
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moodPicker_Prefix-czhgxorouyrbpjheaxkyvulpetkg/moodPicker_Prefix.pch.gch
+t1394418472
+s15814064
+
+NmoodPicker-Info.plist
+c00000000531D0FB1000000000000038D
+t1394413489
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies416111270#416111270#0(0"0(0#1#0"8654379744#0"0#
+
+CCompileC build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/Objects-normal/i386/main.o /Users/Iliana/Documents/LYNDA/moodPicker/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s416111272.914375
+e416111272.995749
+r1
+xCompileC
+xbuild/moodPicker.build/Debug-iphonesimulator/moodPicker.build/Objects-normal/i386/main.o
+x/Users/Iliana/Documents/LYNDA/moodPicker/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/Iliana/Documents/LYNDA/moodPicker/main.m416111272#416111272#0(0"0(0#0#47"/Users/Iliana/Documents/LYNDA/moodPicker/main.m8667647296#1996"    cd /Users/Iliana/Documents/LYNDA/moodPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/moodPicker-generated-files.hmap -I/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/moodPicker-own-target-headers.hmap -I/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/moodPicker-all-target-headers.hmap -iquote /Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/moodPicker-project-headers.hmap -F/Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator -I/Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/include -I/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/DerivedSources/i386 -I/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/DerivedSources -include /var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moodPicker_Prefix-czhgxorouyrbpjheaxkyvulpetkg/moodPicker_Prefix.pch -c /Users/Iliana/Documents/LYNDA/moodPicker/main.m -o /Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/Objects-normal/i386/main.o0#
+
+CCompileC build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/Objects-normal/i386/moodPickerAppDelegate.o /Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s416111272.915877
+e416111273.004774
+r0
+xCompileC
+xbuild/moodPicker.build/Debug-iphonesimulator/moodPicker.build/Objects-normal/i386/moodPickerAppDelegate.o
+x/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerAppDelegate.m:10:
+o/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.h:14: error: statically allocated instance of Objective-C class 'NSArray'
+lSLF07#2@80"Compile /Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerAppDelegate.m416111272#416111273#0(247"In file included from /Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerAppDelegate.m:10:/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.h:14: error: statically allocated instance of Objective-C class 'NSArray'1(4@60"Statically allocated instance of Objective-C class 'NSArray'416111272#99#148#2(7@94"In file included from /Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerAppDelegate.m416111272#18446744073709551615#0#0(6@72"/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerAppDelegate.m416106289#10#0#10#0#0"0(13@139"Statically allocated instance of Objective-C class 'NSArray' in /Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.h416111272#18446744073709551615#0#0(6@75"/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.h416111270#14#0#14#0#0"0(6@75"/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.h416111270#14#0#14#0#0"0(0#0#72"/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerAppDelegate.m8635008160#2038"    cd /Users/Iliana/Documents/LYNDA/moodPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/moodPicker-generated-files.hmap -I/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/moodPicker-own-target-headers.hmap -I/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/moodPicker-all-target-headers.hmap -iquote /Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/moodPicker-project-headers.hmap -F/Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator -I/Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/include -I/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/DerivedSources/i386 -I/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/DerivedSources -include /var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moodPicker_Prefix-czhgxorouyrbpjheaxkyvulpetkg/moodPicker_Prefix.pch -c /Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerAppDelegate.m -o /Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/Objects-normal/i386/moodPickerAppDelegate.o1#
+
+CCompileC build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/Objects-normal/i386/moodPickerViewController.o /Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s416111272.995899
+e416111273.068772
+r0
+xCompileC
+xbuild/moodPicker.build/Debug-iphonesimulator/moodPicker.build/Objects-normal/i386/moodPickerViewController.o
+x/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m:9:
+o/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.h:14: error: statically allocated instance of Objective-C class 'NSArray'
+o/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m:14: error: expected ';' before '-' token
+o/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m:79: warning: '@end' missing in implementation context
+o/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m:79: warning: incomplete implementation of class 'moodPickerViewController'
+o/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m:79: warning: method definition for '-pickerView:numberOfRowsInComponent:' not found
+o/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m:79: warning: method definition for '-numberOfComponentsInPickerView:' not found
+o/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m:79: warning: class 'moodPickerViewController' does not fully implement the 'UIPickerViewDataSource' protocol
+lSLF07#2@83"Compile /Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m416111272#416111273#0(1148"In file included from /Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m:9:/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.h:14: error: statically allocated instance of Objective-C class 'NSArray'/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m:14: error: expected ';' before '-' token/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m:79: warning: '@end' missing in implementation context/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m:79: warning: incomplete implementation of class 'moodPickerViewController'/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m:79: warning: method definition for '-pickerView:numberOfRowsInComponent:' not found/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m:79: warning: method definition for '-numberOfComponentsInPickerView:' not found/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m:79: warning: class 'moodPickerViewController' does not fully implement the 'UIPickerViewDataSource' protocol7(4@60"Statically allocated instance of Objective-C class 'NSArray'416111273#101#148#2(7@97"In file included from /Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m416111273#18446744073709551615#0#0(6@75"/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m416111270#9#0#9#0#0"0(13@139"Statically allocated instance of Objective-C class 'NSArray' in /Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.h416111273#18446744073709551615#0#0(6@75"/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.h416111270#14#0#14#0#0"0(6@75"/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.h416111270#14#0#14#0#0"0(4@29"Expected ';' before '-' token416111273#249#117#0(6@75"/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m416111270#14#0#14#0#19"expected * before *0(22@40"'@end' missing in implementation context416111273#366#130#0(6@75"/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m416111270#79#0#79#0#40"'@end' missing in implementation context0(22@61"Incomplete implementation of class 'moodPickerViewController'416111273#496#151#0(6@75"/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m416111270#79#0#79#0#38"incomplete implementation of class '*'0(22@70"Method definition for '-pickerView:numberOfRowsInComponent:' not found416111273#647#160#0(6@75"/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m416111270#79#0#79#0#35"method definition for '*' not found0(22@66"Method definition for '-numberOfComponentsInPickerView:' not found416111273#807#156#0(6@75"/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m416111270#79#0#79#0#35"method definition for '*' not found0(22@95"Class 'moodPickerViewController' does not fully implement the 'UIPickerViewDataSource' protocol416111273#963#185#0(6@75"/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m416111270#79#0#79#0#51"class '*' does not fully implement the '*' protocol0(0#0#75"/Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m8643360832#2044"    cd /Users/Iliana/Documents/LYNDA/moodPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/moodPicker-generated-files.hmap -I/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/moodPicker-own-target-headers.hmap -I/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/moodPicker-all-target-headers.hmap -iquote /Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/moodPicker-project-headers.hmap -F/Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator -I/Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/include -I/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/DerivedSources/i386 -I/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/DerivedSources -include /var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moodPicker_Prefix-czhgxorouyrbpjheaxkyvulpetkg/moodPicker_Prefix.pch -c /Users/Iliana/Documents/LYNDA/moodPicker/Classes/moodPickerViewController.m -o /Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/Objects-normal/i386/moodPickerViewController.o1#
+
+CCompileXIB /Users/Iliana/Documents/LYNDA/moodPicker/MainWindow.xib
+s416111270.796367
+e416111271.422029
+r1
+xCompileXIB
+x/Users/Iliana/Documents/LYNDA/moodPicker/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib416111270#416111271#0(0"0(0#0#55"/Users/Iliana/Documents/LYNDA/moodPicker/MainWindow.xib8643292032#579"    cd /Users/Iliana/Documents/LYNDA/moodPicker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app/MainWindow.nib /Users/Iliana/Documents/LYNDA/moodPicker/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/Iliana/Documents/LYNDA/moodPicker/moodPickerViewController.xib
+s416111270.797549
+e416111271.380281
+r1
+xCompileXIB
+x/Users/Iliana/Documents/LYNDA/moodPicker/moodPickerViewController.xib
+lSLF07#2@39"CompileXIB moodPickerViewController.xib416111270#416111271#0(0"0(0#0#69"/Users/Iliana/Documents/LYNDA/moodPicker/moodPickerViewController.xib8639381792#607"    cd /Users/Iliana/Documents/LYNDA/moodPicker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app/moodPickerViewController.nib /Users/Iliana/Documents/LYNDA/moodPicker/moodPickerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app.dSYM /Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app/moodPicker
+r0
+
+CLd /Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app/moodPicker normal i386
+r0
+
+CProcessInfoPlistFile /Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app/Info.plist moodPicker-Info.plist
+s416111270.786732
+e416111270.796238
+r1
+xProcessInfoPlistFile
+x/Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app/Info.plist
+xmoodPicker-Info.plist
+lSLF07#2@29"Process moodPicker-Info.plist416111270#416111270#0(0"0(0#0#62"/Users/Iliana/Documents/LYNDA/moodPicker/moodPicker-Info.plist8656834176#494"    cd /Users/Iliana/Documents/LYNDA/moodPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility moodPicker-Info.plist -genpkginfo /Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app/Info.plist0#
+
+CProcessPCH /var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moodPicker_Prefix-czhgxorouyrbpjheaxkyvulpetkg/moodPicker_Prefix.pch.gch moodPicker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s416111271.422199
+e416111272.914085
+r1
+xProcessPCH
+x/var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moodPicker_Prefix-czhgxorouyrbpjheaxkyvulpetkg/moodPicker_Prefix.pch.gch
+xmoodPicker_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile moodPicker_Prefix.pch416111271#416111272#0(0"0(0#0#62"/Users/Iliana/Documents/LYNDA/moodPicker/moodPicker_Prefix.pch8668491488#1883"    cd /Users/Iliana/Documents/LYNDA/moodPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/moodPicker-generated-files.hmap -I/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/moodPicker-own-target-headers.hmap -I/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/moodPicker-all-target-headers.hmap -iquote /Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/moodPicker-project-headers.hmap -F/Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator -I/Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/include -I/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/DerivedSources/i386 -I/Users/Iliana/Documents/LYNDA/moodPicker/build/moodPicker.build/Debug-iphonesimulator/moodPicker.build/DerivedSources -c /Users/Iliana/Documents/LYNDA/moodPicker/moodPicker_Prefix.pch -o /var/folders/RH/RHc32dbAEkaeyYtwKeMS3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moodPicker_Prefix-czhgxorouyrbpjheaxkyvulpetkg/moodPicker_Prefix.pch.gch0#
+
+CTouch /Users/Iliana/Documents/LYNDA/moodPicker/build/Debug-iphonesimulator/moodPicker.app
+r0
+

@@ -1,0 +1,138 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* moodPicker */ = {
+		activeExec = 0;
+		executables = (
+			99AEF21318CD47310075C0CC /* moodPicker */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* moodPickerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 460}}";
+			sepNavSelRange = "{262, 0}";
+			sepNavVisRange = "{0, 402}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* moodPickerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1650}}";
+			sepNavSelRange = "{248, 0}";
+			sepNavVisRange = "{0, 667}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 99AEF21318CD47310075C0CC /* moodPicker */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* moodPicker */;
+		codeSenseManager = 99AEF21E18CD47440075C0CC /* Code sense */;
+		executables = (
+			99AEF21318CD47310075C0CC /* moodPicker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 416106289;
+			PBXWorkspaceStateSaveDate = 416106289;
+		};
+		perUserProjectItems = {
+			99AEF24718CD78BD0075C0CC /* PBXTextBookmark */ = 99AEF24718CD78BD0075C0CC /* PBXTextBookmark */;
+			99AEF24818CD78BD0075C0CC /* PBXTextBookmark */ = 99AEF24818CD78BD0075C0CC /* PBXTextBookmark */;
+			99AEF24918CD78BD0075C0CC /* PBXTextBookmark */ = 99AEF24918CD78BD0075C0CC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 99AEF21D18CD47440075C0CC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	99AEF21318CD47310075C0CC /* moodPicker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = moodPicker;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	99AEF21D18CD47440075C0CC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	99AEF21E18CD47440075C0CC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	99AEF24718CD78BD0075C0CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* moodPickerViewController.h */;
+		name = "moodPickerViewController.h: 12";
+		rLen = 0;
+		rLoc = 262;
+		rType = 0;
+		vrLen = 402;
+		vrLoc = 0;
+	};
+	99AEF24818CD78BD0075C0CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* moodPickerViewController.m */;
+		name = "moodPickerViewController.m: 31";
+		rLen = 0;
+		rLoc = 620;
+		rType = 0;
+		vrLen = 753;
+		vrLoc = 143;
+	};
+	99AEF24918CD78BD0075C0CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* moodPickerViewController.m */;
+		name = "moodPickerViewController.m: 13";
+		rLen = 0;
+		rLoc = 248;
+		rType = 0;
+		vrLen = 667;
+		vrLoc = 0;
+	};
+}
